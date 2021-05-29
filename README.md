@@ -6,4 +6,4 @@ insert probing quadratic
 
 insert probing linear
 
-search, delete and print fuctions.
+search, delete and print functions.
